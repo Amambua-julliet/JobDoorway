@@ -12,6 +12,7 @@ class _EmployerState extends State<Employer> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
+        backgroundColor: Colors.lightBlue,
         title: Text("Employer Dashboard"),
 
       ),

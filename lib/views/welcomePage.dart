@@ -52,7 +52,7 @@ class WelcomePage extends StatelessWidget {
                 width: double.infinity,
                 child: OutlinedButton(
                   onPressed: () {
-                    // Navigate to Login
+                    // Navigate to Login-='
                     Navigator.push(
                       context,
                       MaterialPageRoute(builder: (context) => LoginPage()),
